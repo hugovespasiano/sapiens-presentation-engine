@@ -1,0 +1,29 @@
+{
+  "nome_colecao": "Traço & Saber",
+  "versao": "3.5",
+  "estilo": "Aquarela científica premium, traço fino, paleta pastel",
+  "paleta_cores": {
+    "fundo_bege_claro": "#F7F3E8",
+    "areia_card": "#E9DCCB",
+    "marrom_claro": "#A8876D",
+    "azul_acinzentado": "#8BA2B3",
+    "verde_oliva": "#A8B49B",
+    "terracota": "#C28A57",
+    "ocre": "#CBA96C",
+    "vinho_acinzentado": "#7A5B63",
+    "texto_principal": "#3D312A",
+    "texto_suporte": "#6E5D53"
+  },
+  "proibicoes": [
+    "preto_puro_000000",
+    "cores_neon",
+    "saturacao_excessiva",
+    "elementos_infantis",
+    "excesso_de_texto"
+  ],
+  "regras_didaticas": [
+    "Regra da Ideia Única: Uma caixa = uma ideia principal",
+    "Regra da Palavra-chave Contextualizada: O significado da palavra histórica é compreendido naturalmente pela própria frase",
+    "Alinhamento obrigatório com a BNCC (EF06 a EF09)"
+  ]
+}
