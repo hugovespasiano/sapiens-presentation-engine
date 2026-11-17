@@ -67,6 +67,19 @@ sapiens-presentation-poc/
 
 ---
 
+## 🧠 Motores Estratégicos Homologados (Mesa Estratégica)
+
+O Sapiens Presentation Engine incorpora fundamentos garimpados na Mesa Estratégica da Vespasiano Labs:
+
+1. **👑 Padrões de Layout do `PPT Master` (`hugohe3/ppt-master` — Prints 312 e 347, 51k stars):**
+   - Adoção das melhores práticas de arquitetura OOXML para manipulação programática de caixas de texto, formas vetoriais e tabelas comparativas, garantindo 100% de compatibilidade em computadores escolares com Microsoft Office antigo sem quebrar o layout.
+2. **📚 Ingestão e Mapeamento da BNCC (`Book-to-Skill` + `Open Notebook` — Prints 354-358):**
+   - Fatiamento e indexação das matrizes curriculares da BNCC (História do 6º ano ao Ensino Médio) e apostilas da SEEDUC-RJ. O motor carimba automaticamente em cada lâmina o código da habilidade oficial (ex: `EF08HI02` - Revolução Industrial e transformações sociais), economizando horas de planejamento docente.
+3. **🎨 Ilustração Histórica Autoral (`The Creative Prompt Library` — Prints 237-240):**
+   - Prompts padronizados `/watercolorart` (aquarela acadêmica fluida) e `/inkwashart` (nanquim e tons terrosos sépia) integrados ao Imagen 3 para manter a identidade visual canônica da Coleção Traço & Saber.
+
+---
+
 ## 🚀 Como Executar em Outro Computador
 
 ### 1. Clonar o Repositório
