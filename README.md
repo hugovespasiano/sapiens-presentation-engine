@@ -77,6 +77,8 @@ O Sapiens Presentation Engine incorpora fundamentos garimpados na Mesa Estratég
    - Fatiamento e indexação das matrizes curriculares da BNCC (História do 6º ano ao Ensino Médio) e apostilas da SEEDUC-RJ. O motor carimba automaticamente em cada lâmina o código da habilidade oficial (ex: `EF08HI02` - Revolução Industrial e transformações sociais), economizando horas de planejamento docente.
 3. **🎨 Ilustração Histórica Autoral (`The Creative Prompt Library` — Prints 237-240):**
    - Prompts padronizados `/watercolorart` (aquarela acadêmica fluida) e `/inkwashart` (nanquim e tons terrosos sépia) integrados ao Imagen 3 para manter a identidade visual canônica da Coleção Traço & Saber.
+4. **📖 Metodologia `Codebase to Course` (Print 302 — @rtera.techlab):**
+   - Transforma a estrutura de sistemas, códigos de projetos ou fatos históricos em cursos e apresentações didáticas modulares ("Como a máquina funciona por dentro: do insumo à entrega"), gerando automaticamente o encadeamento de slides explicativos, perguntas de checagem e sínteses de fechamento.
 
 ---
 
